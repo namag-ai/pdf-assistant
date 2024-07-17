@@ -46,7 +46,7 @@ By leveraging **PDF Assistant**, users can streamline their learning process by 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Minty-cyber/PDF-Assistant.git
+   git clone https://github.com/namag-ai/pdf-assistant.git
    cd Backend
 2. Install the python dependencies:
 
@@ -133,4 +133,4 @@ leverage the powerful language processing capabilities of Google Generative AI.
    http://localhost:3000
 
 ## Contributions 🤝
-Contributions are welcome! Please follow the [contribution guidelines](https://github.com/Minty-cyber/PDF-Assistant/blob/main/CONTRIBUTIONS.md) to get started.
+Contributions are welcome! Please follow the [contribution guidelines](https://github.com/namag-ai/pdf-assistant/blob/main/CONTRIBUTIONS.md) to get started.
